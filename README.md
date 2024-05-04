@@ -11,6 +11,9 @@
 - https://github.com/overextended/ox_inventory (Adding the item)
 - (optional, but recommended) https://github.com/overextended/ox_lib (Sending the notification)
 
+<b>Preview:</b>
+- https://www.youtube.com/watch?v=3KJ0RdRXdaE
+
 ## Installation
 - Download RELEASE
 - Add </b>lachy_kit</b> to your resources folder
