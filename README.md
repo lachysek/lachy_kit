@@ -19,7 +19,7 @@
 - Restart your server
 
 ## SQL
-Execute this query:
+Insert this query:
 ```
 CREATE TABLE IF NOT EXISTS kit (
    license VARCHAR(255) PRIMARY KEY,
