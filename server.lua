@@ -1,4 +1,4 @@
-RegisterCommand("kit", function(source, args, rawCommand)
+RegisterCommand("kit", function(source)
     local playerId = tonumber(source)
     local license
     for k, v in ipairs(GetPlayerIdentifiers(source)) do
